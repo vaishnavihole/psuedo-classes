@@ -58,5 +58,10 @@ p::first-line {
 /*before and after*/
 
 h3::before {
-    content: 'any';
+    content: 'any this is begining';
+}
+
+
+h3::after {
+    content: '*';
 }
