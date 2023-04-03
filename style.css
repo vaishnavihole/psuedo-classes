@@ -23,5 +23,5 @@ body{
 }
 
 ul li:first-child{
-    
+    background-color: blueviolet;
 }
