@@ -44,3 +44,8 @@ ul li:nth-child(2n + 1){
 h2::first-letter {
    background-color: red;
 }
+
+::selection {
+    color: greenyellow;
+    background-color: black;
+}
