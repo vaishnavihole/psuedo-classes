@@ -25,3 +25,7 @@ body{
 ul li:first-child{
     background-color: blueviolet;
 }
+
+ul li:last-child{
+    background-color: yellow;
+}
