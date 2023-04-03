@@ -3,10 +3,13 @@ body{
     padding: 40px;
 }
 
-.primary-btn {
+.primary-btn:link {
     color: aqua;
 }
 
+.primary-btn:visited {
+    color: orange;
+}
 .primary-btn:hover{
      color: red;
      background-color: black;
