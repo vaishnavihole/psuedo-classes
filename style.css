@@ -54,3 +54,9 @@ p::first-line {
     color: greenyellow;
     background-color: black;
 }
+
+/*before and after*/
+
+h3::before {
+    content: 'any';
+}
