@@ -3,6 +3,11 @@ body{
     padding: 40px;
 }
 
+.primary-btn {
+    color: aqua;
+}
+
 .primary-btn:hover{
      color: red;
+     background-color: black;
 }
