@@ -40,3 +40,7 @@ ul li:first-child{
 ul li:nth-child(2n + 1){
     background-color: grey;
 }
+
+h2::first-letter {
+   background-color: red;
+}
